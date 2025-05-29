@@ -1,8 +1,6 @@
 Towards a sustainable use of GPUs in Graphics Research
 ======================================================
 
-Internal
---------
+Notes about the SIGGRAPH" 25 Talk about the representativity of GPU used in Computer Graphics research.
 
-Link to slides: https://docs.google.com/presentation/d/1Zx-OhzjXEGghP9HQFNz8au3D3aKj75BXBtWJEP2kLyY/edit?usp=sharing
-
+See online page: https://eliemichel.github.io/sustainable-gpu-usage
